@@ -30,14 +30,27 @@ Output:
 Vowel: 2
 Consonant: 3
 #### Code
+![coutvowelandconsonantscode](https://user-images.githubusercontent.com/68238652/218112307-fb4cd97f-2521-442b-86e9-60d3eb6b5c67.PNG)
+
 #### Output
+![countvandcoutput](https://user-images.githubusercontent.com/68238652/218112349-b804eb5f-1f3f-48eb-90ff-b451d9ff1a65.PNG)
+
 ### Problem - 5:Encrypt word when A=E
 Input: Apple
 Output: Fuuqj
 #### Code
+![encryptcode](https://user-images.githubusercontent.com/68238652/218112467-ba732dde-76b7-4fa4-9a10-dcb5c45de107.PNG)
 #### Output
+![encryptoutput](https://user-images.githubusercontent.com/68238652/218112577-6817cb36-e769-4104-9b18-98b19679a113.PNG)
+
 ### Problem - 6:Create a program which will take input from users for registration and save the info to a json file. The system will require following user info:
 Full Name, email, password, address, mobile no.
 #### Code
-#### Output
+![writejsonlistcode](https://user-images.githubusercontent.com/68238652/218112646-26de3db4-c43f-4a4d-9301-d287fc2fdb30.PNG)
+
+#### Input
+![writejsonlistinput](https://user-images.githubusercontent.com/68238652/218112741-e5037273-c4d5-4aef-9515-47213134e11c.PNG)
+#### Saved JSON file
+![loginoutput](https://user-images.githubusercontent.com/68238652/218112929-fa198e0a-2bc7-4045-80e8-5b16633cd4f6.PNG)
+
 
